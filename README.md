@@ -1,1 +1,2 @@
 # weathermap
+In this tutorial blog which is the part of Roadway to Android App Development Course, using open weather map API example, we will create an Android weather app. The Android App will able to access Open weather map website server and access weather details of particular location. You can view complete tutorial here: https://faultinmycode.com/open-weather-map-api-example-create-android-weather-app/
